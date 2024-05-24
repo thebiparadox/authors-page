@@ -1,2 +1,1 @@
-# authors-page
-Created an authors page for Bad Website's bootcamp
+Created an authors page for Bad Website's bootcamp using [freeCodeCamp's Javascript and Data Algorithms curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-fetch-and-promises-by-building-an-fcc-authors-page/step-1)
